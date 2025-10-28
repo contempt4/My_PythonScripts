@@ -1,0 +1,1 @@
+This code manages a golf skins game. It has the option to use gross skins or handicaps. It generates an Excel report that can be used to calculate payout. I added bonus skins for any birdie or better score 
